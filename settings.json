@@ -1,0 +1,73 @@
+{
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 14,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "editor.renderControlCharacters": true,
+    "breadcrumbs.enabled": true,
+    "files.exclude": {
+        "**/.gif": true,
+        "**/.jpg": true,
+        "**/.png": true,
+        "**/.svg": true,
+        "**/*.map": true,
+        "**/*.dll": true,
+        "**/bin": true
+    },
+    "files.watcherExclude": {
+        "**/images/**": true,
+        "**/img/**": true,
+        "**/swf/**": true
+    },
+    "files.associations": {
+        ".*lintrc": "json"
+    },
+    "search.exclude": {
+        "**/.history": true,
+        "**/.idea": true,
+        "**/.sass-cache": true,
+        "**/.vscode": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/tmp": true
+    },
+    "search.useIgnoreFilesByDefault": false,
+    "emmet.variables": {
+        "lang": "ja"
+    },
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
+    "python.jediEnabled": false,
+    "editor.fontFamily": "SF Mono",
+    "editor.fontLigatures": true,
+    "[json]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.preferredHighContrastColorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "workbench.preferredLightColorTheme": "Monokai Dimmed",
+    "python.languageServer": "Microsoft",
+    "editor.codeActionsOnSave": null,
+}
